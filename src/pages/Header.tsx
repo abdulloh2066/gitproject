@@ -37,6 +37,7 @@ function Header() {
             <option value="sergili">sergili</option>
         </select>
       </div>
+      <button>tasdiqlash</button>
     </header>
   )
 }
