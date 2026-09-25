@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 function Header() {
   return (
@@ -38,6 +38,7 @@ function Header() {
         </select>
       </div>
       <button>tasdiqlash</button>
+      <p>Lorem ipsum dolor sit amet.</p>
     </header>
   )
 }
