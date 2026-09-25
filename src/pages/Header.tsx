@@ -30,6 +30,13 @@ function Header() {
         </div>
 
       </div>
+      <div>
+        <select name="" id="">
+            <option value="qumariq">qumariq</option>
+            <option value="mirzo ulugbek">mirzo ulugbek</option>
+            <option value="sergili">sergili</option>
+        </select>
+      </div>
     </header>
   )
 }
